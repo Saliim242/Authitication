@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "154539200650",
+    "project_id": "auth-toturial-fff50",
+    "storage_bucket": "auth-toturial-fff50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154539200650:android:ef768cf080b3e0e2e21d73",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154539200650-ppdf1gavag7f2fk3ae1evort61f3ti1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKymHcQBVopqC5_5QrWk39dygB2UT_E-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154539200650-ppdf1gavag7f2fk3ae1evort61f3ti1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154539200650-u6erfa0b32bate2kjpi1v8m602lgrtad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
